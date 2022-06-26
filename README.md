@@ -10,3 +10,6 @@ You will need:
 - Tensorflow
 - Keras
 - Sklearn
+
+
+I will edit the codes when i have time
